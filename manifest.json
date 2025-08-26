@@ -1,23 +1,11 @@
 {
   "name": "Wallet",
   "short_name": "Wallet",
-  "description": "A simple USDT transfer app with masked address and dynamic input.",
+  "description": "USDT transfer app with masked address and installable PWA experience.",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#121212",
   "theme_color": "#121212",
   "orientation": "portrait",
-  "lang": "bn",
-  "icons": [
-    {
-      "src": "https://i.postimg.cc/QdCVbxrX/download-8.jpg",
-      "sizes": "192x192",
-      "type": "image/jpeg"
-    },
-    {
-      "src": "https://i.postimg.cc/QdCVbxrX/download-8.jpg",
-      "sizes": "512x512",
-      "type": "image/jpeg"
-    }
-  ]
-}
+  "lang": "en",
+  "icons": [43dcd9a7-70db-4a1f-b0ae-981daa162054](https://github.com/navikom/facetsui-rn-extend-code/tree/f67b886806b7b281f0eb965003980b909deef9a8/src%2Fassets%2Fsvg%2Fchevron_left_fv23uy.js?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "1")[
