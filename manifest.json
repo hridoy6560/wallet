@@ -1,8 +1,8 @@
 {
-  "name": "Transfer App",
-  "short_name": "Transfer",
-  "description": "A simple USDT transfer interface with dynamic input and masked address display.",
-  "start_url": "/index.html",
+  "name": "Wallet",
+  "short_name": "Wallet",
+  "description": "A simple USDT transfer app with masked address and dynamic input.",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#121212",
   "theme_color": "#121212",
